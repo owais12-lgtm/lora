@@ -3,7 +3,7 @@ you might ask what is lora?
 
 LoRa modules enable multi-mile wireless communication by using a patented spread spectrum modulation approach developed by Semtech called LoRa. It uses a form of spread spectrum modulation known as Chirp Spread Spectrum (CSS) whose frequency increases or decreases over time across the channel bandwidth 
 
-the compact LoRa module made here is to transmit and receive messages using sub gigahertzs frequencies of radio waves, for use in things such as automation, transmission, reception etc
+the compact LoRa module made here is to transmit and receive messages using sub gigahertzs frequencies of radio waves
 
 This LoRa module uses Sub GHz frequencies to tranceive radio waves. below are the compoenents usd for this! 
 
