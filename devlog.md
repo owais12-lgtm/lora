@@ -4,12 +4,27 @@
 
 i followed the tutorial on blurprint to make the schematic for the lora module, a lot of the tutorial uses out dated symbols so i had to import a buch of them.
 
+hrs spent: 5.5 total: 5.5
+
 # more schematic 3 hrs
-this is my first time doing rf stuff so im a bit cooked, i had to redo the schematic cuz after 2 month of not working on this. i realised i had a lot of stuff that was not gonna work. like the decoupling capacitors, so ive redone this schematic today morning. <img width="1136" height="818" alt="image" src="https://github.com/user-attachments/assets/199368c6-b253-4709-9395-1d5412cb05ab" />
+this is my first time doing rf stuff so im a bit cooked, i had to redo the schematic cuz after 2 month of not working on this. i realised i had a lot of stuff that was not gonna work. like the decoupling capacitors, so ive redone this schematic today morning.
+hrs spent: 3 total: 8.5
+
+<img width="1136" height="818" alt="image" src="https://github.com/user-attachments/assets/199368c6-b253-4709-9395-1d5412cb05ab" />
 
 # pcb! 6 hrs 
 i just found all the foorprints for this lora module and tried to place this shi and failed a few times. this is the final placemnt i landed on. after this i routed everything so it works properly! during the routing i had to redo it a few times cuz the traces kept coliding and i cant have that if i want this thing to even work. its still really shitty routing im prolly gonna work more on it tonight 
+hrs spent: 6 total: 14.5
+
 
 <img width="852" height="608" alt="image" src="https://github.com/user-attachments/assets/34115625-28a3-44af-a800-8db7d5b3e267" />
 <img width="852" height="608" alt="image" src="https://github.com/user-attachments/assets/76c5ddcc-91e8-4582-bcf4-ca2b6dcb13a3" />
 <img width="592" height="759" alt="image" src="https://github.com/user-attachments/assets/03672fe6-7950-4b2b-a5eb-183c4d648fc9" />
+
+# pcb 2 hrs 
+pcb routing v4 i think, this took so long to route. send help
+
+hrs spent: 2 total: 16.5
+
+<img width="774" height="742" alt="Screenshot from 2026-07-20 23-34-06" src="https://github.com/user-attachments/assets/6941df73-5ed4-454a-8d3e-d6e6e8a63448" />
+<img width="774" height="742" alt="Screenshot from 2026-07-20 23-40-33" src="https://github.com/user-attachments/assets/ef14415d-c394-4288-ac50-1afce161c80e" />
