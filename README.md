@@ -17,3 +17,8 @@ This LoRa module uses Sub GHz frequencies to tranceive radio waves. below are th
     SMD Capacitors.
     SMD Inductors.
     USB-C Receptacle.
+
+# PCB pictures
+
+<img width="608" height="848" alt="image" src="https://github.com/user-attachments/assets/7e8375dd-d981-41d1-8609-14063ef00162" />
+<img width="760" height="932" alt="image" src="https://github.com/user-attachments/assets/693eed37-8ca3-414d-abc3-3f399540e46b" />
