@@ -28,3 +28,7 @@ hrs spent: 2 total: 16.5
 
 <img width="774" height="742" alt="Screenshot from 2026-07-20 23-34-06" src="https://github.com/user-attachments/assets/6941df73-5ed4-454a-8d3e-d6e6e8a63448" />
 <img width="774" height="742" alt="Screenshot from 2026-07-20 23-40-33" src="https://github.com/user-attachments/assets/ef14415d-c394-4288-ac50-1afce161c80e" />
+
+# fixed all the drc erros! 2.5 hrs
+i fixed a lot of clearence erros and traces being too close together, i had to reroute some of the pcb cuz it gave me shit tons of errors. i also missed quite a few of these compoenents so i connectors those too. <img width="308" height="211" alt="Screenshot from 2026-07-21 23-49-33" src="https://github.com/user-attachments/assets/77b0c47d-d812-483e-bc94-82f1bed330ed" />
+<img width="737" height="432" alt="Screenshot from 2026-07-21 23-41-21" src="https://github.com/user-attachments/assets/a950c631-1d3e-478c-9de8-3022afaf0a67" />
