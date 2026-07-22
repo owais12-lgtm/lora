@@ -8,12 +8,14 @@ hrs spent: 5.5 total: 5.5
 
 # more schematic 3 hrs
 this is my first time doing rf stuff so im a bit cooked, i had to redo the schematic cuz after 2 month of not working on this. i realised i had a lot of stuff that was not gonna work. like the decoupling capacitors, so ive redone this schematic today morning.
+
 hrs spent: 3 total: 8.5
 
 <img width="1136" height="818" alt="image" src="https://github.com/user-attachments/assets/199368c6-b253-4709-9395-1d5412cb05ab" />
 
 # pcb! 6 hrs 
 i just found all the foorprints for this lora module and tried to place this shi and failed a few times. this is the final placemnt i landed on. after this i routed everything so it works properly! during the routing i had to redo it a few times cuz the traces kept coliding and i cant have that if i want this thing to even work. its still really shitty routing im prolly gonna work more on it tonight 
+
 hrs spent: 6 total: 14.5
 
 
@@ -32,3 +34,6 @@ hrs spent: 2 total: 16.5
 # fixed all the drc erros! 2.5 hrs
 i fixed a lot of clearence erros and traces being too close together, i had to reroute some of the pcb cuz it gave me shit tons of errors. i also missed quite a few of these compoenents so i connectors those too. <img width="308" height="211" alt="Screenshot from 2026-07-21 23-49-33" src="https://github.com/user-attachments/assets/77b0c47d-d812-483e-bc94-82f1bed330ed" />
 <img width="737" height="432" alt="Screenshot from 2026-07-21 23-41-21" src="https://github.com/user-attachments/assets/a950c631-1d3e-478c-9de8-3022afaf0a67" />
+
+
+hrs spent: 2.5 total: 19 hrs
