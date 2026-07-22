@@ -16,4 +16,3 @@ This LoRa module uses Sub GHz frequencies to tranceive radio waves. below are th
     
 # PCB pictures
 
-<img width="641" height="767" alt="image" src="https://github.com/user-attachments/assets/1d1dbddf-9c88-4b70-a5fe-d7ac9e8892b2" />
