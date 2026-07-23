@@ -40,6 +40,8 @@ hrs spent: 2.5 total: 19 hrs
 
 # more pcb stuff 6 hours
 i asked soup for some feedback and apperently my routing is dogshit and will not work at all so now im gonna redo the entire routing and placement cuz this is how im supposed to do the rf placemnt and routing.  my usb stuff also has to be re routed
+<img width="832" height="648" alt="image" src="https://github.com/user-attachments/assets/6e5f26e9-9f44-4962-8bb4-8b2d220fc8f2" />
+
 <img width="832" height="648" alt="image" src="https://github.com/user-attachments/assets/8e804afd-8dea-48eb-93a7-223b243fc5ba" />
 
 <img width="756" height="823" alt="image" src="https://github.com/user-attachments/assets/af4789ef-c20c-4a69-a903-c06ad1a76637" />
