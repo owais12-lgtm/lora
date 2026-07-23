@@ -37,3 +37,20 @@ i fixed a lot of clearence erros and traces being too close together, i had to r
 
 
 hrs spent: 2.5 total: 19 hrs
+
+# more pcb stuff 6 hours
+i asked soup for some feedback and apperently my routing is dogshit and will not work at all so now im gonna redo the entire routing and placement cuz this is how im supposed to do the rf placemnt and routing.  my usb stuff also has to be re routed
+<img width="832" height="648" alt="image" src="https://github.com/user-attachments/assets/8e804afd-8dea-48eb-93a7-223b243fc5ba" />
+
+<img width="756" height="823" alt="image" src="https://github.com/user-attachments/assets/af4789ef-c20c-4a69-a903-c06ad1a76637" />
+
+<img width="756" height="823" alt="image" src="https://github.com/user-attachments/assets/72bca2bd-c762-4a18-93bb-ec1c714461c6" />
+
+<img width="756" height="823" alt="image" src="https://github.com/user-attachments/assets/15b9e8c0-b20f-4059-b36a-be5fad39fc11" />
+
+<img width="290" height="114" alt="image" src="https://github.com/user-attachments/assets/fef14d0b-af10-4eef-9570-9deb8d9fae4d" />
+
+<img width="290" height="114" alt="image" src="https://github.com/user-attachments/assets/924196fd-67ea-46a4-aae5-2ebc67dafb45" />
+
+
+<img width="290" height="114" alt="image" src="https://github.com/user-attachments/assets/84bde100-e518-4653-9299-3b9166df5397" />
