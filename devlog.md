@@ -1,4 +1,9 @@
+# total hours spent on project: 25
+
+
+
 # Schematic 5.5 hrs
+
 
 <img width="1580" height="731" alt="image" src="https://github.com/user-attachments/assets/8814d4eb-1bdf-4fa3-8ecc-f2d002a4dd66" />
 
