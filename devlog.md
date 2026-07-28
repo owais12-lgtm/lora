@@ -21,7 +21,7 @@ i just found all the foorprints for this lora module and tried to place this shi
 
 hrs spent: 6 total: 14.5
 
-<img src="https://github.com/user-attachments/assets/34115625-28a3-44af-a800-8db7d5b3e267" width="200" /> <img src="https://github.com/user-attachments/assets/76c5ddcc-91e8-4582-bcf4-ca2b6dcb13a3" width="200" /> <img src="https://github.com/user-attachments/assets/03672fe6-7950-4b2b-a5eb-183c4d648fc9" width="200" />
+<img src="https://github.com/user-attachments/assets/34115625-28a3-44af-a800-8db7d5b3e267" width="400" /> <img src="https://github.com/user-attachments/assets/76c5ddcc-91e8-4582-bcf4-ca2b6dcb13a3" width="400" /> <img src="https://github.com/user-attachments/assets/03672fe6-7950-4b2b-a5eb-183c4d648fc9" width="400" />
 
 # pcb 2 hrs 
 pcb routing v4 i think, this took so long to route. send help
