@@ -38,8 +38,7 @@ i fixed a lot of clearence erros and traces being too close together, i had to r
 hrs spent: 2.5 total: 19 hrs
 
 # more pcb stuff 6 hours
-i asked soup for some feedback and apperently my routing is dogshit and will not work at all so now im gonna redo the entire routing and placement cuz this is how im supposed to do the rf placemnt and routing.  my usb stuff also has to be re routed
-
+i asked soup for some feedback and apparently my routing is dogshit and will not work at all so now im gonna redo the entire routing and placement. most of the issues that seem to be happening with stuff like shielding and routing RF traces. the SX 1262 and both crystals also need to be re routed. souptik seems to think that all my rf stuff is way too far away which i agree with, these r way to far from each other and its usually supposed to be 23 mm wide
 time spent: 6 hrs , total:  25 hours
 
 <img src="https://github.com/user-attachments/assets/ded8327d-fec9-4670-9461-400b1063da55" width="200" /> <img src="https://github.com/user-attachments/assets/6e5f26e9-9f44-4962-8bb4-8b2d220fc8f2" width="200" /> <img src="https://github.com/user-attachments/assets/8e804afd-8dea-48eb-93a7-223b243fc5ba" width="200" />
