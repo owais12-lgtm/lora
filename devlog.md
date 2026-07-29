@@ -1,11 +1,18 @@
-
+<img width="1000" height="1036" alt="image" src="https://github.com/user-attachments/assets/20bdfa40-1c97-44cc-b755-35901925c92a" />
 # total hours spent on project: 25
 
 # Schematic 5.5 hrs
 
 <img src="https://github.com/user-attachments/assets/8814d4eb-1bdf-4fa3-8ecc-f2d002a4dd66" width="500" />
 
-i followed the tutorial on blurprint to make the schematic for the lora module, a lot of the tutorial uses out dated symbols so i had to import a bunch of them.
+i followed the tutorial on blurprint to make the schematic for the lora module, im using all of these in my schematic, the tutorial contained outdated instructions and symbols for these so i had to ask around slack and stalk other ppl's repos to find what exactly to use 
+
+SX1262IMLTRT 
+RP2040 
+0900FM15D0039E as an RF filter.
+AP2112K-3.3 as my LDO.
+PE4259 as my RF switch.
+Two quartz timer crystals (12 MHz and 32 MHz).
 
 hrs spent: 5.5 total: 5.5
 
