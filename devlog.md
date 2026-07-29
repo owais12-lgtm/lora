@@ -4,7 +4,7 @@
 # Schematic 5.5 hrs
 
 <img src="https://github.com/user-attachments/assets/8814d4eb-1bdf-4fa3-8ecc-f2d002a4dd66" width="600" />
-<img width="1000" height="1036" alt="image" src="https://github.com/user-attachments/assets/20bdfa40-1c97-44cc-b755-35901925c92a" width="300" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/20bdfa40-1c97-44cc-b755-35901925c92a"  />
 i followed the tutorial on blurprint to make the schematic for the lora module, im using all of these in my schematic, the tutorial contained outdated instructions and symbols for these so i had to ask around slack and stalk other ppl's repos to find what exactly to use 
 
 SX1262IMLTRT 
