@@ -17,7 +17,7 @@ hrs spent: 3 total: 8.5
 <img src="https://github.com/user-attachments/assets/199368c6-b253-4709-9395-1d5412cb05ab" width="500" />
 
 # pcb! 6 hrs 
-i just found all the foorprints for this lora module and tried to place this shi and failed a few times. this is the final placemnt i landed on. after this i routed everything so it works properly! during the routing i had to redo it a few times cuz the traces kept coliding and i cant have that if i want this thing to even work. its still really shitty routing im prolly gonna work more on it tonight 
+i just found all the foorprints for this lora module and tried to place this shi and failed a few times. this is the final placemnt i landed on. it was after looking at a buncha lora modules from other ppl, rf needs pretty good placement where stuff is really close to each other.  after this i routed everything so it works properly! during the routing i had to redo it a few times cuz the traces kept colliding and i cant have that if i want this thing to even work. its still really shitty routing im prolly gonna work more on it tonight.
 
 hrs spent: 6 total: 14.5
 
